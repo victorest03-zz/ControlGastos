@@ -1,0 +1,35 @@
+{
+  "name": "controlgastos",
+  "version": "1.0.0",
+  "description": "Controlar los gastos mensuales de una persona",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorest03/ControlGastos.git"
+  },
+  "keywords": [
+    "gastos",
+    "calculo"
+  ],
+  "author": "Victor Estrada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorest03/ControlGastos/issues"
+  },
+  "homepage": "https://github.com/victorest03/ControlGastos#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-babel": "^7.0.0",
+    "gulp-clean-css": "^3.8.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
